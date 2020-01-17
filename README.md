@@ -21,3 +21,7 @@ $ pip install scikit-learn
 ```
 
 ## Startup
+
+```
+$ python detect_faces_video.py
+```
